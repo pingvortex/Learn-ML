@@ -1,4 +1,5 @@
 # Install required packages
+# REMOVE if you are not using Google Colab and paste it in the terminal (without the exclamation mark)
 !pip install transformers datasets matplotlib torch
 # Import required libraries
 from transformers import (
