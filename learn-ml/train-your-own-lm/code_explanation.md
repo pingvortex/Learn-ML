@@ -1,6 +1,6 @@
 # Explanation of the Code
 
-This section provides a detailed, line-by-line breakdown of the code for fine-tuning a language model, connecting to concepts from [Large Language Models (LLMs)](./large_language_models.md) and tools from [Libraries Used in the Code](libraries.md). It’s designed to help you understand the code and prepare for [Training Your Own Model](training_your_model.md).
+This section provides a detailed, line-by-line breakdown of the code for fine-tuning a language model, connecting to concepts from [Large Language Models (LLMs)](./large_language_models.md) and tools from [Libraries Used in the Code](libraries.md). It’s designed to help you understand the code and prepare for [Training Your Own Model](training_your_own_model.md).
 
 ## Overview
 
