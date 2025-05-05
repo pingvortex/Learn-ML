@@ -230,7 +230,7 @@ print(f"Final Validation Loss: {eval_loss[-1]:.4f}")
 
 ## Why This Code?
 
-It provides a robust, beginner-friendly framework for fine-tuning, balancing performance and resource constraints. It’s a practical application of concepts from [How Neural Networks Work](01_neural_networks.md) and [Libraries Used in the Code](02_libraries.md).
+It provides a robust, beginner-friendly framework for fine-tuning, balancing performance and resource constraints. It’s a practical application of concepts from [How Neural Networks Work](./neural_networks.md) and [Libraries Used in the Code](libraries.md).
 
 ## Next Steps
 
