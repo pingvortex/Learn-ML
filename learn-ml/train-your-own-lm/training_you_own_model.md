@@ -1,6 +1,6 @@
 # Training Your Own Model
 
-This section provides a practical, step-by-step guide to train your own language model, building on the code from [Explanation of the Code](code_explanation.md) and concepts from [Large Language Models (LLMs)](05_large_language_models.md). It’s designed for hands-on learners ready to apply their knowledge.
+This section provides a practical, step-by-step guide to train your own language model, building on the code from [Explanation of the Code](code_explanation.md) and concepts from [Large Language Models (LLMs)](./large_language_models.md). It’s designed for hands-on learners ready to apply their knowledge.
 
 ## Why Train Your Own Model?
 
