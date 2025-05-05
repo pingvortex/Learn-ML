@@ -21,7 +21,7 @@ FINAL_MODEL_DIR = "./final_model"        # Final model save path
 NUM_EPOCHS = 3                           # Max training epochs
 BATCH_SIZE = 8                           # Adjust based on GPU memory
 LEARNING_RATE = 2e-5                     # Learning rate
-EARLY_STOPPING_PATIENCE = 2              # Stop after 3 eval loss increases
+EARLY_STOPPING_PATIENCE = 2              # Stop after 2 eval loss increases
 BLOCK_SIZE = 512                         # Context length
 # =====================================================================
 
