@@ -8,7 +8,7 @@ Welcome to this beginner-friendly documentation set! This guide will teach you t
 4. [**Large Language Models (LLMs)**](large_language_models.md) - Advanced language models, their capabilities, and challenges.
 5. [**Libraries Used in the Code**](train-your-own-lm/libraries.md) - Detailed explanation of the Python libraries powering the example code.
 6. [**Explanation of the Code**](train-your-own-lm/code_explanation.md) - A line-by-line breakdown of the code for fine-tuning a language model.
-7. [**Training Your Own Model**](train-your-own-lm/training_you_own_model.md) - A practical, step-by-step guide to train your own model.
+7. [**Training Your Own Model**](train-your-own-lm/training_your_own_model.md) - A practical, step-by-step guide to train your own model.
 
 ## How to Use This Guide
 
