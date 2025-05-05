@@ -68,6 +68,6 @@ These libraries are industry standards, offering:
 
 ## Next Steps
 
-Dive into [Explanation of the Code](code_explanation.md) to see these libraries in action, or learn how to set them up in [Training Your Own Model](train_your_own_model.md).
+Dive into [Explanation of the Code](code_explanation.md) to see these libraries in action, or learn how to set them up in [Training Your Own Model](training_your_own_model.md).
 
 [Back to README](./README.md)
