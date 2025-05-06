@@ -1,6 +1,6 @@
 # Install required packages
 # REMOVE if you are not using Google Colab and paste it in the terminal (without the exclamation mark)
-!pip install transformers datasets matplotlib torch
+!pip install transformers datasets matplotlib torch 'accelerate>=0.26.0'
 # Import required libraries
 from transformers import (
     AutoTokenizer,
